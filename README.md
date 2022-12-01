@@ -6,7 +6,7 @@ It is possible to verify which version of Biopython was installed by using __pyt
 
 1. Reading Sequence Files in Biopython
 
-Using the following __count_fasta.py__. This script permits you to count the number of records in each FASTA file. The only thing that needs to be changed is the filename for your desired file. The next script, __count_record.py__ shows the protein length of each record in a FASTA file. Again, all that needs to be edited is the filename. The result file for the __count_fasta.py__ is counts.txt and for __count_records.py__ is records.txt respectively.
+Using the following __count_fasta.py__. This script permits you to count the number of records in each FASTA file. The only thing that needs to be changed is the filename for your desired file. The next script, __count_record.py__ shows the protein length of each record in a FASTA file. Again, all that needs to be edited is the filename. The result files for __count_fasta.py__ and __count_records.py__ is counts.txt and records.txt respectively.
 
 2. Checking proteins start with methionine
 
